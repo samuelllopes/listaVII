@@ -5,8 +5,8 @@ public class TestTemperatura {
 
     @Test
     public void testConversorTemperatura() {
-        double temperaturaFahrenheit = 68;
-        double temperaturaCelsius = (temperaturaFahrenheit - 32) / 1.8;
-        assertEquals(20, temperaturaCelsius);
+        double tempFahrenheit = 68;
+        double tempCelsius = (tempFahrenheit - 32) / 1.8;
+        assertEquals(20, tempCelsius);
     }
 }
