@@ -1,2 +1,3 @@
-# listaVII
-Lista de Exercício VII
+# lista de Exercício VII
+
+
