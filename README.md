@@ -8,7 +8,6 @@ Samuel Lopes Nazário RA: 622121812
 ## Projetos Java - Junit
 
 * [Exc1_CadastrarCpf](Exc1_CadastrarCpf)
-* [Prototipo.md](Prototipo.md)
-* [Casodeuso.md](Casodeuso.md)
-* [diagramadeclassedeuso.md](diagramadeclassedeuso.md)
-* [diagramadesequencia.md](diagramadesequencia.md)
+* [Exc2_MediaAritmetrica](Exc2_MediaAritmetrica)
+* [Exc3_AcrescimoProduto](Exc3_AcrescimoProduto)
+* [Exc4_Temperatura](Exc4_Temperatura)
