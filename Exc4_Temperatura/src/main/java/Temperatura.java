@@ -6,10 +6,10 @@ public class Temperatura {
         Scanner leia = new Scanner(System.in);
 
         System.out.print("Digite a temperatura em graus Fahrenheit: ");
-        double temperaturaFahrenheit = leia.nextDouble();
+        double tempFahrenheit = leia.nextDouble();
 
-        double temperaturaCelsius = (temperaturaFahrenheit - 32) / 1.8;
+        double tempCelsius = (tempFahrenheit - 32) / 1.8;
 
-        System.out.println("A temperatura em graus Celsius é: " + temperaturaCelsius);
+        System.out.println("A temperatura em graus Celsius é: " + tempCelsius);
     }
 }
